@@ -138,11 +138,11 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `Existen 85266 registros donde el campo salario contiene caracteres no numéricos` |
 | 14 | ¿Cuál es el salario promedio después de limpiar? | `El salario promedio después del proceso de limpieza es: 7985229.90` |
 | 15 | ¿Cuál es el salario máximo después de limpiar? | `El salario máximo registrado después de limpiar los datos es: 14999908.0.` |
-| 16 | ¿Cuál es el salario mínimo después de limpiar? | `PENDIENTE` |
-| 17 | ¿Cuántos registros tienen `activo` como verdadero después de normalizar? | `PENDIENTE` |
-| 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `PENDIENTE` |
-| 19 | ¿Cuántos registros tienen fecha de nacimiento con formato diferente a YYYY-MM-DD? | `PENDIENTE` |
-| 20 | ¿Cuántas personas nacieron entre 1990 y 2000 (inclusive)? | `PENDIENTE` |
+| 16 | ¿Cuál es el salario mínimo después de limpiar? | `El salario mínimo encontrado tras la limpieza del dataset es: 1000032.0.` |
+| 17 | ¿Cuántos registros tienen `activo` como verdadero después de normalizar? | `Después de normalizar el campo 'activo', 132493 registros tienen un valor considerado verdadero` |
+| 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `138878 registros presentan el campo 'activo' como falso` |
+| 19 | ¿Cuántos registros tienen fecha de nacimiento con formato diferente a YYYY-MM-DD? | `Se encontraron 89823 registros con formato de fecha diferente a AAAA-MM-DD o inválido.` |
+| 20 | ¿Cuántas personas nacieron entre 1990 y 2000 (inclusive)? | `El número de personas nacidas entre 1990 y 2000 (inclusive) es: 37518` |
 | 21 | ¿Cuántas personas nacieron antes de 1960? | `PENDIENTE` |
 | 22 | ¿Cuántas personas tienen más de 50 años (fecha actual: 2026-02-26)? | `PENDIENTE` |
 | 23 | ¿Cuántos registros tienen nombre "Carlos" y viven en "Cali"? | `PENDIENTE` |
