@@ -133,11 +133,11 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 08 | ¿Cuántas ciudades únicas existen después de normalizar? | `existen 240 ciudades únicas en el dataset` |
 | 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `El numero de registros cuya porfesion es ingeniero es 10113` |
 | 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `Se encontraron 10051 registros correspondientes a la profesión 'Programador'` |
-| 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `PENDIENTE` |
-| 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `PENDIENTE` |
-| 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `PENDIENTE` |
-| 14 | ¿Cuál es el salario promedio después de limpiar? | `PENDIENTE` |
-| 15 | ¿Cuál es el salario máximo después de limpiar? | `PENDIENTE` |
+| 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `existen 294 profesiones únicas registradas` |
+| 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `Se identificaron 27075 registros cuyo campo email contiene espacios adicionales` |
+| 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `Existen 85266 registros donde el campo salario contiene caracteres no numéricos` |
+| 14 | ¿Cuál es el salario promedio después de limpiar? | `El salario promedio después del proceso de limpieza es: 7985229.90` |
+| 15 | ¿Cuál es el salario máximo después de limpiar? | `El salario máximo registrado después de limpiar los datos es: 14999908.0.` |
 | 16 | ¿Cuál es el salario mínimo después de limpiar? | `PENDIENTE` |
 | 17 | ¿Cuántos registros tienen `activo` como verdadero después de normalizar? | `PENDIENTE` |
 | 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `PENDIENTE` |
