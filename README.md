@@ -143,7 +143,7 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 | 18 | ¿Cuántos registros tienen `activo` como falso después de normalizar? | `138878 registros presentan el campo 'activo' como falso` |
 | 19 | ¿Cuántos registros tienen fecha de nacimiento con formato diferente a YYYY-MM-DD? | `Se encontraron 89823 registros con formato de fecha diferente a AAAA-MM-DD o inválido.` |
 | 20 | ¿Cuántas personas nacieron entre 1990 y 2000 (inclusive)? | `El número de personas nacidas entre 1990 y 2000 (inclusive) es: 37518` |
-| 21 | ¿Cuántas personas nacieron antes de 1960? | `PENDIENTE` |
+| 21 | ¿Cuántas personas nacieron antes de 1960? | `La cantidad de personas nacidas antes del año 1960 es: 46713.` |
 | 22 | ¿Cuántas personas tienen más de 50 años (fecha actual: 2026-02-26)? | `PENDIENTE` |
 | 23 | ¿Cuántos registros tienen nombre "Carlos" y viven en "Cali"? | `PENDIENTE` |
 | 24 | ¿Cuántos registros tienen nombre "Ana" y son "Medico"? | `PENDIENTE` |
