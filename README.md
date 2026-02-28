@@ -123,16 +123,16 @@ A continuación se listan los 30 ejercicios. **Debe escribir el valor exacto de 
 
 | # | Ejercicio | Solución |
 |---|-----------|----------|
-| 01 | ¿Cuántas filas tienen el campo `id` con caracteres no numéricos? | `PENDIENTE` |
-| 02 | ¿Cuántas veces aparece el nombre "Maria" en el dataset? | `PENDIENTE` |
-| 03 | ¿Cuántas veces aparece el nombre "Juan" en el dataset? | `PENDIENTE` |
-| 04 | ¿Cuál es el nombre más frecuente y cuántas veces aparece? | `PENDIENTE` |
-| 05 | ¿Cuál es el apellido más frecuente y cuántas veces aparece? | `PENDIENTE` |
-| 06 | ¿Cuántos registros tienen la ciudad "Bogota" después de limpiar? | `PENDIENTE` |
-| 07 | ¿Cuántos registros tienen la ciudad "Medellin" después de limpiar? | `PENDIENTE` |
-| 08 | ¿Cuántas ciudades únicas existen después de normalizar? | `PENDIENTE` |
-| 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `PENDIENTE` |
-| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `PENDIENTE` |
+| 01 | ¿Cuántas filas tienen el campo `id` con caracteres no numéricos? | `83648` |
+| 02 | ¿Cuántas veces aparece el nombre "Maria" en el dataset? | `El numero de repeticiones de Marias es: 4160` |
+| 03 | ¿Cuántas veces aparece el nombre "Juan" en el dataset? | `El numero de repeticiones de Juan es: 3986` |
+| 04 | ¿Cuál es el nombre más frecuente y cuántas veces aparece? | `El nombre más frecuente es Gonzalo y aparece 4221 veces.` |
+| 05 | ¿Cuál es el apellido más frecuente y cuántas veces aparece? | `Apellido más frecuente: Reyes Veces: 7490` |
+| 06 | ¿Cuántos registros tienen la ciudad "Bogota" después de limpiar? | `existen 12530 registros correspondientes a la ciudad de Bogotá` |
+| 07 | ¿Cuántos registros tienen la ciudad "Medellin" después de limpiar? | `la ciudad de Medellín tiene 12752 registros asociados.` |
+| 08 | ¿Cuántas ciudades únicas existen después de normalizar? | `existen 240 ciudades únicas en el dataset` |
+| 09 | ¿Cuántos registros tienen la profesión "Ingeniero" después de limpiar? | `El numero de registros cuya porfesion es ingeniero es 10113` |
+| 10 | ¿Cuántos registros tienen la profesión "Programador" después de limpiar? | `Se encontraron 10051 registros correspondientes a la profesión 'Programador'` |
 | 11 | ¿Cuántas profesiones únicas existen después de normalizar? | `PENDIENTE` |
 | 12 | ¿Cuántos registros tienen el campo `email` con espacios adicionales? | `PENDIENTE` |
 | 13 | ¿Cuántos registros tienen el campo `salario` con caracteres no numéricos? | `PENDIENTE` |
